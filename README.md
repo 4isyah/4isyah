@@ -60,10 +60,7 @@ Building things that learn and scale
   <img src="https://img.shields.io/badge/ML%20Research-ACTIVE-ff4ecd?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/CGPA-3.46-121212?style=flat-square" />
   <img src="https://img.shields.io/badge/Dean's%20List-6x-121212?style=flat-square" />
-  <img src="https://img.shields.io/badge/Languages-EN%20%7C%20BM%20%7C%20%E4%B8%AD%E6%96%87-121212?style=flat-square" />
-  <img src="https://img.shields.io/badge/Coffee-Required-121212?style=flat-square" />
 </p>
 
 ---
@@ -109,14 +106,6 @@ long_term:
   - Production-scale AI systems
   - Deep technical credibility
 ```
-
----
-
-## `github_telemetry`
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=4isyah&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</p>
 
 ---
 
