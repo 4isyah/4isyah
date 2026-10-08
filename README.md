@@ -1,132 +1,63 @@
-<!-- ============ HEADER BANNER ============ -->
+<!-- ============ HEADER BANNER (pastel pink · lavender · baby blue) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0c29&height=150&section=header&text=aisyah&fontSize=44&fontColor=00FFAA&font=Fira%20Code&animation=fadeIn&fontAlignY=26&desc=cloud%20%E2%80%A2%20AI%20engineering%20%E2%80%A2%20ML%20research&descAlignY=45&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffc8dd,50:cdb4db,100:bde0fe&height=170&section=header&text=hi,%20i'm%20aisyah%20%E2%99%A1&fontSize=44&fontColor=5e4b6e&animation=fadeIn&fontAlignY=40&desc=cloud%20%E2%9C%A6%20ai%20%E2%9C%A6%20machine%20learning&descAlignY=62&descSize=16" />
 </p>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+initializing+profile...;%3E+loading+skills%3A+Azure+%E2%80%A2+Python+%E2%80%A2+ML...;%3E+training+model...+accuracy%3A+96.09%25;%3E+status%3A+OPEN+TO+WORK;%3E+path%3A+AI+Engineering+%E2%86%92+Cloud" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=3200&pause=1100&color=E08BB4&center=true&vCenter=true&width=600&lines=soft+heart%2C+sharp+code;building+cute+things+on+azure;turning+coffee+into+models;currently+open+to+work+%E2%9C%A7" />
 </p>
-
-<!-- Optional: drag a GIF into the GitHub editor and paste the generated link here -->
-<!-- <p align="center"><img src="PASTE_GIF_LINK_HERE" width="500"/></p> -->
-
----
-
-## `whoami`
-
-```bash
-aisyah@github:~$ whoami
-
-Computer Engineering grad (Scalable Computing) @ UTP
-ML researcher turned cloud & AI engineer
-Building things that learn and scale
-```
-
----
-
-## `current_status`
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Core Focus**
-- Cloud engineering on Azure
-- AI engineering (RAG, LLM apps)
-- Machine learning & computer vision
-- Full-stack development
-
-</td>
-<td valign="top" width="50%">
-
-**Current Work**
-- AskWise: RAG FAQ chatbot
-- TicketTriage: helpdesk classifier
-- Azure certification track
-- UAV thermal imaging paper (EAIT 2026)
-
-</td>
-</tr>
-</table>
-
----
-
-## `system_dashboard`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-OPEN%20TO%20WORK-00FFAA?style=for-the-badge&logo=checkmarx&logoColor=black" />
-  <img src="https://img.shields.io/badge/Azure%20Track-IN%20PROGRESS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML%20Research-ACTIVE-ff4ecd?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Dean's%20List-6x-121212?style=flat-square" />
+  <img src="https://img.shields.io/badge/open%20to%20work-ffc8dd?style=flat-square&labelColor=ffc8dd" />
+  <img src="https://img.shields.io/badge/based%20in-malaysia-cdb4db?style=flat-square" />
+  <img src="https://img.shields.io/badge/dean's%20list-6x-bde0fe?style=flat-square" />
 </p>
 
----
-
-## `tech_stack`
-
-**Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 
-**Frameworks & Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react" />
+### ♡ about me
 
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,linux" />
+- ✿ computer engineering grad (scalable computing) from **UTP**
+- ✿ ML researcher at heart: my FYP classified gases from UAV imagery with a CNN (**96.09%** accuracy)
+- ✿ now growing into a **cloud & AI engineer**
+- ✿ likes: clean code, pretty dashboards, and learning new things every week
 
-**Data & AI**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+### ☁️ what i'm working on
 
----
+- **AskWise**: a RAG-powered FAQ chatbot (FastAPI · FAISS · Mistral-7B)
+- **TicketTriage**: an AI helpdesk ticket classifier
+- **Azure certs**: containers, AKS, and data on Azure
+- **research paper**: my FYP turned into a conference paper
 
-## `career_vector`
-
-```yaml
-current_track:
-  - Azure cloud engineering
-  - AI / LLM application development
-  - Machine learning research
-
-next_target:
-  - AI Engineer
-  - Cloud Engineer
-  - Microsoft certifications
-
-long_term:
-  - Production-scale AI systems
-  - Deep technical credibility
-```
-
----
-
-## `connect.sh`
+### ✧ my toolbox
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,nodejs,express,react,azure,docker,kubernetes,git,github,linux,pytorch,tensorflow,sklearn&perline=9&theme=light" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/hugging%20face-ffc8dd?style=flat-square&logo=huggingface&logoColor=5e4b6e" />
+  <img src="https://img.shields.io/badge/power%20bi-cdb4db?style=flat-square&logo=powerbi&logoColor=5e4b6e" />
+  <img src="https://img.shields.io/badge/pandas-bde0fe?style=flat-square&logo=pandas&logoColor=5e4b6e" />
+  <img src="https://img.shields.io/badge/numpy-ffc8dd?style=flat-square&logo=numpy&logoColor=5e4b6e" />
 </p>
 
----
+### 🌷 next up
 
-## `philosophy.txt`
+- landing my first role as an **AI or cloud engineer**
+- more Microsoft certifications
+- building AI apps that people actually enjoy using
 
-```text
-Measure before you optimise.
-Ship small, learn fast.
-Curiosity compounds.
-```
+### 💌 say hi
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/linkedin-cdb4db?style=for-the-badge&logo=linkedin&logoColor=5e4b6e" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/email-ffc8dd?style=for-the-badge&logo=gmail&logoColor=5e4b6e" /></a>
+</p>
+
+<p align="center"><i>stay curious, stay kind, keep shipping ♡</i></p>
 
 <!-- ============ FOOTER BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:bde0fe,50:cdb4db,100:ffc8dd&height=100&section=footer" />
 </p>
