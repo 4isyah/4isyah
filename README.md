@@ -1,63 +1,63 @@
-<!-- ============ HEADER BANNER (pastel pink · lavender · baby blue) ============ -->
+<!-- ============ HERO GIF ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffc8dd,50:cdb4db,100:bde0fe&height=170&section=header&text=hi,%20i'm%20aisyah%20%E2%99%A1&fontSize=44&fontColor=5e4b6e&animation=fadeIn&fontAlignY=40&desc=cloud%20%E2%9C%A6%20ai%20%E2%9C%A6%20machine%20learning&descAlignY=62&descSize=16" />
+  <img src="./profile.gif" width="100%" alt="Pixel art room" />
 </p>
 
-<!-- ============ TYPING ANIMATION ============ -->
+<!-- ============ TYPING ANIMATION (pixel font) ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=3200&pause=1100&color=E08BB4&center=true&vCenter=true&width=600&lines=soft+heart%2C+sharp+code;building+cute+things+on+azure;turning+coffee+into+models;currently+open+to+work+%E2%9C%A7" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=F06AA9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aisyah;Cloud+%26+AI+Engineer;Machine+Learning+Researcher;Open+to+opportunities" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/open%20to%20work-ffc8dd?style=flat-square&labelColor=ffc8dd" />
-  <img src="https://img.shields.io/badge/based%20in-malaysia-cdb4db?style=flat-square" />
-  <img src="https://img.shields.io/badge/dean's%20list-6x-bde0fe?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-6BAD6B?style=flat-square&labelColor=483E51" />
+  <img src="https://img.shields.io/badge/Location-Malaysia-45769F?style=flat-square&labelColor=483E51" />
+  <img src="https://img.shields.io/badge/Dean's%20List-6%20Semesters-BB90D6?style=flat-square&labelColor=483E51" />
 </p>
 
-<br/>
+---
 
-### ♡ about me
+### ▸ About Me
 
-- ✿ computer engineering grad (scalable computing) from **UTP**
-- ✿ ML researcher at heart: my FYP classified gases from UAV imagery with a CNN (**96.09%** accuracy)
-- ✿ now growing into a **cloud & AI engineer**
-- ✿ likes: clean code, pretty dashboards, and learning new things every week
+Computer Engineering graduate (Scalable Computing) from **Universiti Teknologi PETRONAS**, with a background in machine learning research and a growing focus on cloud and AI engineering.
 
-### ☁️ what i'm working on
+- My final year project classified gas types from UAV thermal imagery using a custom CNN (**96.09% accuracy**), later written up as a conference paper
+- Currently building hands-on experience with **Azure**, containerised deployments, and LLM-based applications
+- Interested in roles where AI, cloud infrastructure, and practical problem-solving meet
 
-- **AskWise**: a RAG-powered FAQ chatbot (FastAPI · FAISS · Mistral-7B)
-- **TicketTriage**: an AI helpdesk ticket classifier
-- **Azure certs**: containers, AKS, and data on Azure
-- **research paper**: my FYP turned into a conference paper
+### ▸ Projects
 
-### ✧ my toolbox
+| Project | Description | Stack |
+|---|---|---|
+| **AskWise** | RAG-based FAQ chatbot | FastAPI · FAISS · sentence-transformers · Mistral-7B |
+| **TicketTriage** | AI helpdesk ticket classifier (capstone, AI/classification lead) | Python · ML |
+| **UAV Gas Classification** | Comparative study of ML and DL models on thermal imagery | Python · TensorFlow · scikit-learn |
+
+### ▸ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,nodejs,express,react,azure,docker,kubernetes,git,github,linux,pytorch,tensorflow,sklearn&perline=9&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,nodejs,express,react,azure,docker,kubernetes,git,github,linux,pytorch,tensorflow,sklearn&perline=9" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/hugging%20face-ffc8dd?style=flat-square&logo=huggingface&logoColor=5e4b6e" />
-  <img src="https://img.shields.io/badge/power%20bi-cdb4db?style=flat-square&logo=powerbi&logoColor=5e4b6e" />
-  <img src="https://img.shields.io/badge/pandas-bde0fe?style=flat-square&logo=pandas&logoColor=5e4b6e" />
-  <img src="https://img.shields.io/badge/numpy-ffc8dd?style=flat-square&logo=numpy&logoColor=5e4b6e" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-483E51?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/Power%20BI-483E51?style=flat-square&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Pandas-483E51?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-483E51?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
-### 🌷 next up
+### ▸ Currently Focused On
 
-- landing my first role as an **AI or cloud engineer**
-- more Microsoft certifications
-- building AI apps that people actually enjoy using
+- Microsoft Azure certifications
+- Retrieval-augmented generation (RAG) and LLM applications
+- Building and deploying end-to-end AI projects
 
-### 💌 say hi
+### ▸ Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/linkedin-cdb4db?style=for-the-badge&logo=linkedin&logoColor=5e4b6e" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/email-ffc8dd?style=for-the-badge&logo=gmail&logoColor=5e4b6e" /></a>
+  <a href="https://www.linkedin.com/in/aisyahafiqa/"><img src="https://img.shields.io/badge/LinkedIn-45769F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aisyahafiqa221@gmail.com"><img src="https://img.shields.io/badge/Gmail-F06AA9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>stay curious, stay kind, keep shipping ♡</i></p>
-
-<!-- ============ FOOTER BANNER ============ -->
+<!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:bde0fe,50:cdb4db,100:ffc8dd&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:45769F,50:BB90D6,100:F06AA9&height=6&section=footer" width="100%" />
 </p>
