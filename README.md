@@ -3,6 +3,11 @@
   <img src="./profile.gif" width="100%" alt="Pixel art room" />
 </p>
 
+<!-- ============ WAVE BANNER (colours from the GIF) ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45769F,50:BB90D6,100:F06AA9&height=140&section=header&text=Aisyah%20Afiqa&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Machine%20Learning&descSize=15&descAlignY=58" width="100%" />
+</p>
+
 <!-- ============ TYPING ANIMATION (pixel font) ============ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=F06AA9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aisyah;Cloud+%26+AI+Engineer;Machine+Learning+Researcher;Open+to+opportunities" />
@@ -10,9 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-6BAD6B?style=flat-square&labelColor=483E51" />
-  <img src="https://img.shields.io/badge/Location-Malaysia-45769F?style=flat-square&labelColor=483E51" />
-  <img src="https://img.shields.io/badge/Dean's%20List-6%20Semesters-BB90D6?style=flat-square&labelColor=483E51" />
-</p>
+  <img src="https://img.shields.io/badge/Location-Malaysia-45769F?style=flat-square&labelColor=483E51" /></p>
 
 ---
 
@@ -59,5 +62,5 @@ Computer Engineering graduate (Scalable Computing) from **Universiti Teknologi P
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:45769F,50:BB90D6,100:F06AA9&height=6&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F06AA9,50:BB90D6,100:45769F&height=110&section=footer" width="100%" />
 </p>
