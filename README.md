@@ -25,7 +25,7 @@ Computer Engineering graduate (Scalable Computing) from **Universiti Teknologi P
 
 - My final year project classified gas types from UAV thermal imagery using a custom CNN (**96.09% accuracy**), later written up as a conference paper
 - Currently building hands-on experience with **Azure**, containerised deployments, and LLM-based applications
-- Interested in roles where AI, cloud infrastructure,Data Roles and practical problem-solving meet
+- Interested in roles where AI, cloud infrastructure, Data Roles and practical problem-solving meet
 
 ### ▸ Projects
 
